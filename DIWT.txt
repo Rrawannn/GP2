@@ -1,0 +1,10 @@
+@article{begum2020digital,
+  title={Digital image watermarking techniques: a review},
+  author={Begum, Mahbuba and Uddin, Mohammad Shorif},
+  journal={Information},
+  volume={11},
+  number={2},
+  pages={110},
+  year={2020},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
